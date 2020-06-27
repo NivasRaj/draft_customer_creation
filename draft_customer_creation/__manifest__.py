@@ -13,9 +13,9 @@
             4) Finally you can see your customer record in existing 'Customer' menu.
         """,
     'website': '',
-    'price': 5,
-    'currency': 'EUR',
-    'license': 'OPL-1',
+    # 'price': 5,
+    # 'currency': 'EUR',
+    # 'license': 'OPL-1',
     'depends': ['base','sale','sale_management'],
     'data': [
         'views/inherited_sale_views.xml',
