@@ -12,7 +12,7 @@
             4) Finally you can see your customer record in existing 'Customer' menu.
         """,
     'category': 'CRM',
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'depends': ['base','sale','sale_management'],
     'data': [
         'views/inherited_sale_views.xml',
